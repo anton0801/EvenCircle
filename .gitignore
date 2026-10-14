@@ -1,0 +1,13 @@
+.DS_Store
+.env
+*.xcuserstate
+xcuserdata/
+.build/
+DerivedData/
+build/
+Production/AudioRaw/**/*.tmp
+.env.example
+docs
+build
+ASSETS_TODO.md
+README.md
